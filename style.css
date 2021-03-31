@@ -345,11 +345,12 @@ h3 {
   margin: 0 auto;
 }
 
-.about-me__img {
+/*.about-me__img {
   box-shadow: var(--bs);
-}
+} */
 
 @media (min-width: 600px) {
+  /*
   .about-me {
     display: grid;
     grid-template-columns: 1fr 200px;
@@ -378,7 +379,7 @@ h3 {
     grid-area: img;
     position: relative;
     z-index: 2;
-  }
+  } */
 }
 
 /* My Work */
